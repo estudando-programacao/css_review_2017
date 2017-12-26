@@ -2,7 +2,7 @@ css resources review
 
 ---
 
-*Day 1 (26/12/2017) - CSS grid*
+** Day 1 (26/12/2017) - CSS grid **
 
 resources:
 
@@ -10,5 +10,5 @@ resources:
 - mozilla: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 - scrimba (interactive tutorial): https://scrimba.com/
 
-Day 2 (27/12/2017) - Flexbox
+** Day 2 (27/12/2017) - Flexbox **
 
