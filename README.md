@@ -2,7 +2,7 @@ css resources review
 
 ---
 
-Day 1 (26/12/2017) - CSS grid 
+*Day 1 (26/12/2017) - CSS grid*
 
 resources:
 
